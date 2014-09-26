@@ -1,0 +1,4 @@
+SlicerPlugin
+============
+
+Példa plugin
